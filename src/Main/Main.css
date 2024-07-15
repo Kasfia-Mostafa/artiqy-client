@@ -1,0 +1,15 @@
+.Main{
+    overflow: hidden;
+    color: black;
+    background-color:#f0f8ff;
+    padding: 1rem 1rem;
+}
+
+.blur{
+    position: absolute;
+    width: 22rem;
+    height: 14rem;
+    border-radius: 50%;
+    background-color: #cdfeec;
+    filter: blur(72px);
+}
